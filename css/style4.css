@@ -1,0 +1,40 @@
+img{
+    width:300px;
+    height: auto;
+}
+div{
+
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+   align-content:space-around;
+   resize: both;
+   overflow: auto;
+
+}
+h1{
+   color: Black;
+   text-align: center;
+   font-size: 70px;
+   font-family:Oswald;
+   font-weight: bolder;
+   margin: 15px;
+   padding: 15px;
+}
+h2{
+   font-family:DM Sans;
+   font-stretch: expanded;
+   color: black;
+   text-align: right;
+   font-size: 32px;
+   margin-right: 20px;
+
+}
+p{  line-height: 1.3;
+   margin: 17px 885px;
+   color:black;
+   font-family: Verdana;
+   font-size: 15px;
+   width:25em;
+   text-align:right;
+}
